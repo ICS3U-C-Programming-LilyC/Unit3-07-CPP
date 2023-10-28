@@ -30,7 +30,7 @@ int main() {
             // Else if to see if the user's age is > 120.
         } else if (userAgeAsInteger > 40) {
             std::cout << "You're too old to date my grandchild.";
-            // Else to tell them they're eligible to date 
+            // Else to tell them they're eligible to date
             // my grandchild.
         } else {
             std::cout << "You're eligible to date my grandchild.";
